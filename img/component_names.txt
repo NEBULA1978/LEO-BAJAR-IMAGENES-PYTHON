@@ -1,0 +1,370 @@
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen10.jpg"
+    parrafo="Carta 1"
+    :header="{
+        name: 'imagen10.jpg',
+        picture: 'imagen10.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen18.jpg"
+    parrafo="Carta 2"
+    :header="{
+        name: 'imagen18.jpg',
+        picture: 'imagen18.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen25.jpg"
+    parrafo="Carta 3"
+    :header="{
+        name: 'imagen25.jpg',
+        picture: 'imagen25.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen32.jpg"
+    parrafo="Carta 4"
+    :header="{
+        name: 'imagen32.jpg',
+        picture: 'imagen32.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen6.jpg"
+    parrafo="Carta 5"
+    :header="{
+        name: 'imagen6.jpg',
+        picture: 'imagen6.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen11.jpg"
+    parrafo="Carta 6"
+    :header="{
+        name: 'imagen11.jpg',
+        picture: 'imagen11.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen19.jpg"
+    parrafo="Carta 7"
+    :header="{
+        name: 'imagen19.jpg',
+        picture: 'imagen19.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen26.jpg"
+    parrafo="Carta 8"
+    :header="{
+        name: 'imagen26.jpg',
+        picture: 'imagen26.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen33.jpg"
+    parrafo="Carta 9"
+    :header="{
+        name: 'imagen33.jpg',
+        picture: 'imagen33.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen7.jpg"
+    parrafo="Carta 10"
+    :header="{
+        name: 'imagen7.jpg',
+        picture: 'imagen7.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen12.jpg"
+    parrafo="Carta 11"
+    :header="{
+        name: 'imagen12.jpg',
+        picture: 'imagen12.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen2.jpg"
+    parrafo="Carta 12"
+    :header="{
+        name: 'imagen2.jpg',
+        picture: 'imagen2.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen27.jpg"
+    parrafo="Carta 13"
+    :header="{
+        name: 'imagen27.jpg',
+        picture: 'imagen27.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen34.jpg"
+    parrafo="Carta 14"
+    :header="{
+        name: 'imagen34.jpg',
+        picture: 'imagen34.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen8.jpg"
+    parrafo="Carta 15"
+    :header="{
+        name: 'imagen8.jpg',
+        picture: 'imagen8.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen13.jpg"
+    parrafo="Carta 16"
+    :header="{
+        name: 'imagen13.jpg',
+        picture: 'imagen13.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen20.jpg"
+    parrafo="Carta 17"
+    :header="{
+        name: 'imagen20.jpg',
+        picture: 'imagen20.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen28.jpg"
+    parrafo="Carta 18"
+    :header="{
+        name: 'imagen28.jpg',
+        picture: 'imagen28.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen35.jpg"
+    parrafo="Carta 19"
+    :header="{
+        name: 'imagen35.jpg',
+        picture: 'imagen35.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen9.jpg"
+    parrafo="Carta 20"
+    :header="{
+        name: 'imagen9.jpg',
+        picture: 'imagen9.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen14.jpg"
+    parrafo="Carta 21"
+    :header="{
+        name: 'imagen14.jpg',
+        picture: 'imagen14.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen21.jpg"
+    parrafo="Carta 22"
+    :header="{
+        name: 'imagen21.jpg',
+        picture: 'imagen21.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen29.jpg"
+    parrafo="Carta 23"
+    :header="{
+        name: 'imagen29.jpg',
+        picture: 'imagen29.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen36.png"
+    parrafo="Carta 24"
+    :header="{
+        name: 'imagen36.png',
+        picture: 'imagen36.png',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="leo.jpg"
+    parrafo="Carta 25"
+    :header="{
+        name: 'leo.jpg',
+        picture: 'leo.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen15.jpg"
+    parrafo="Carta 26"
+    :header="{
+        name: 'imagen15.jpg',
+        picture: 'imagen15.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen22.jpg"
+    parrafo="Carta 27"
+    :header="{
+        name: 'imagen22.jpg',
+        picture: 'imagen22.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen3.jpg"
+    parrafo="Carta 28"
+    :header="{
+        name: 'imagen3.jpg',
+        picture: 'imagen3.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen37.svg"
+    parrafo="Carta 29"
+    :header="{
+        name: 'imagen37.svg',
+        picture: 'imagen37.svg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen16.jpg"
+    parrafo="Carta 30"
+    :header="{
+        name: 'imagen16.jpg',
+        picture: 'imagen16.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen23.jpg"
+    parrafo="Carta 31"
+    :header="{
+        name: 'imagen23.jpg',
+        picture: 'imagen23.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen30.jpg"
+    parrafo="Carta 32"
+    :header="{
+        name: 'imagen30.jpg',
+        picture: 'imagen30.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen4.jpg"
+    parrafo="Carta 33"
+    :header="{
+        name: 'imagen4.jpg',
+        picture: 'imagen4.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen17.jpg"
+    parrafo="Carta 34"
+    :header="{
+        name: 'imagen17.jpg',
+        picture: 'imagen17.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen24.jpg"
+    parrafo="Carta 35"
+    :header="{
+        name: 'imagen24.jpg',
+        picture: 'imagen24.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen31.jpg"
+    parrafo="Carta 36"
+    :header="{
+        name: 'imagen31.jpg',
+        picture: 'imagen31.jpg',
+    }"
+    :likes="true"
+/>
+<CardComp
+    class="mt-2 mx-auto single-spot"
+    picture="imagen5.jpg"
+    parrafo="Carta 37"
+    :header="{
+        name: 'imagen5.jpg',
+        picture: 'imagen5.jpg',
+    }"
+    :likes="true"
+/>
